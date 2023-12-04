@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3D Rotating Card</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="./style1.css">
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="overflow-box">
+            <div class="card-outer-box">
+                <div class="card-inner-box">
+                    <div class="front">
+                        <div class="front-color-box"></div>
+                        <div class="content-box">
+                            <div class="content">
+                                <h1>CHOCOLATE CONE</h1>
+                                <span class="price">$3</span>
+                                <div class="buttons">
+                                    <a href="#">
+                                        <li class="buy-btn">Buy Now</li>
+                                    </a>
+                                    <a href="#">
+                                        <li onclick="rotateRight()" class="next-page-btn"><span class="next-page-arrow">></span></li>
+                                    </a>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="front-image-box">
+                        <img src="./images/Cone ice cream.png" class="front-img" width alt="">
+                    </div>
+
+                    <div class="left"></div>
+
+                    <div class="right"></div>
+
+                    <div class="back">
+                        <div class="back-color-box"></div>
+                        <div class="content-box" style="transform: scale(-1,1);">
+                            <div class="content">
+                                <h1>CHOCOLATE ICE CRAEAM</h1>
+                                <span class="price">$5</span>
+                                <div class="buttons">
+                                    <a href="#">
+                                        <li class="buy-btn">Buy Now</li>
+                                    </a>
+                                    <a href="#">
+                                        <li onclick="rotateLeft()" class="next-page-btn"><span class="next-page-arrow"><</span></li>
+                                    </a>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="back-image-box">
+                        <img src="./images/stick ice cream.png" class="back-image" alt="">
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+    <script src="./index.js"></script>
+</body>
+
+</html>
