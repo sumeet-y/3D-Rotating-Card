@@ -6,10 +6,7 @@
 </tr>
 <tr>
     <td>
-         <video width="320" height="240" controls loop>
-            <source src="./project gif.gif" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
+        <img src="./project gif.gif" width=300/>
     </td>
 </tr>
 
