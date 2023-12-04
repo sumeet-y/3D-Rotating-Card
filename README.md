@@ -1,6 +1,7 @@
 <h1>Description</h1>
-<p>A simple rotating card made with html, css and javaScript</p>
-<p>Im providing a link below, so that you can understand how to rotate a card, and for rest of the working you can check out my code, it just a simple css.</p>
+<p>In this project, I demonstrate how to build a visually appealing rotating card using fundamental web technologies. The implementation involves three key components: HTML for the structure, CSS for styling, and JavaScript for interactivity.</p>
+
+<p>I am providing a link below to illustrate how to implement a rotating card using HTML, CSS, and JavaScript. For the remaining details and implementation, you can refer to my code, which primarily involves simple CSS.</p>
 <p>Happy Learning.</p>
 <h1>Resources</h1>
  
