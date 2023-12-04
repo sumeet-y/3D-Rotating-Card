@@ -1,4 +1,4 @@
-## Screenshots
+<h1>Screenshots</h1>
 <table>
 <tr>
     <td><img src="./front.png" width=300/></td>
@@ -7,7 +7,7 @@
 
 
 </table>
-## Video Preview
+<h1>Video Preview</h1>
 <table>
 <tr>
     <td>
