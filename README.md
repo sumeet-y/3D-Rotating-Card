@@ -5,7 +5,7 @@
 <p>Happy Learning.</p>
 <h1>Resources</h1>
  
-<p><a href="https://www.w3schools.com/howto/howto_css_flip_card.asp">Click here to know how to rotate a card</a></p>
+<p><a href="https://www.w3schools.com/howto/howto_css_flip_card.asp">Click here to learn how to rotate a card.</a></p>
 <h1>Screenshots</h1>
 <table>
 <tr>
