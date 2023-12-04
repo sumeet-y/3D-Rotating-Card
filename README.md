@@ -11,7 +11,7 @@
 <table>
 <tr>
     <td>
-        <img src="./project gif.gif" width=300/>
+        <img src="./project gif.gif" width=300 >
     </td>
 </tr>
 
