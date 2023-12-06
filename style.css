@@ -56,7 +56,8 @@
     height: 100%;
     width: 2rem;
     margin-left: 14rem;
-    transform: translateZ(-1rem);
+    transform: translateX(14rem) translateZ(-1rem);
+    /* transform: translateZ(-1rem); */
     transform: rotateY(90deg);
     background-color: white;
 
