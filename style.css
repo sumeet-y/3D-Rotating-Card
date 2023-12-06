@@ -26,12 +26,12 @@
     transform-style: preserve-3d;
 }
 .card-outer-box{
-    width: 15rem;
+    max-width: 15rem;
     min-height: 25rem;
     position: relative;
     display: flex;
     perspective: 1000px;
-    aspect-ratio: 1/1;
+    aspect-ratio: 4/3;
 }
 
 .front{
