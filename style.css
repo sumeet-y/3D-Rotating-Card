@@ -26,7 +26,7 @@
     transform-style: preserve-3d;
 }
 .card-outer-box{
-    max-width: 15rem;
+    width: 15rem;
     min-height: 25rem;
     position: relative;
     display: flex;
