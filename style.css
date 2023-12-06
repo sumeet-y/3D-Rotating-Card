@@ -147,6 +147,7 @@
     padding: 0.3rem 0.3rem;
     border-radius: 25px;
     border: 2px solid lightgray;
+    -webkit-tap-highlight-color: transparent;
 }
 .buy-btn:hover{
     cursor: pointer;
@@ -155,6 +156,7 @@
 .next-page-btn{
     margin-top: 0.7rem ;
     margin-left:6rem;
+    -webkit-tap-highlight-color: transparent;
 }
 .next-page-arrow{
     padding: 0.2rem 0.7rem;
